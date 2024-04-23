@@ -15,3 +15,4 @@
 ### Documentation
 
 - [Go docs](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://go.dev/doc/&ved=2ahUKEwj2j-ixy9iFAxVBqJUCHanMAw0QFnoECBYQAQ&usg=AOvVaw2FRsDnp_hBj3j7Ez1a3dEh)
+- [Go by example](https://gobyexample.com/)
