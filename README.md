@@ -6,6 +6,7 @@
 - [Free code camp ENG](https://www.youtube.com/watch?v=un6ZyFkqFKo&t=1154s&pp=ygUPZnJlZWNvZGVjYW1wIGdv)
 
 ### book web development 
+This book is a raw dog usage of golang, for prod use fiber [FIBER](https://gofiber.io/)
 - [PDF](book/lets-go-further.pdf)
 
 ### API example 
